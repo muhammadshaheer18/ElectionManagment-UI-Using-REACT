@@ -93,3 +93,9 @@ This project is for academic and demonstration purposes only.
 
 ---
 
+##Screen:
+![Results](https://github.com/user-attachments/assets/70645b10-634f-4316-b577-c441664fd37d)
+---
+![Monitor](https://github.com/user-attachments/assets/56f34dfe-616b-4022-bb3d-8d21201cc567)
+
+
